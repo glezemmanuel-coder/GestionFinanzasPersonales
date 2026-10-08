@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">GFP</title>
+  <desc id="desc">Gestión de Finanzas Personales</desc>
+  <defs>
+    <linearGradient id="bg" x1="10" y1="8" x2="116" y2="122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#24395e"/>
+      <stop offset=".55" stop-color="#344b78"/>
+      <stop offset="1" stop-color="#6758bd"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="24" y1="16" x2="105" y2="109" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="122" height="122" rx="34" fill="url(#bg)"/>
+  <rect x="3.5" y="3.5" width="121" height="121" rx="33.5" fill="url(#shine)" stroke="#fff" stroke-opacity=".18"/>
+  <text x="64" y="74" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="800" letter-spacing="-1.8">GFP</text>
+  <path d="M43 91h37" stroke="#75d5b0" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="91" cy="91" r="4" fill="#75d5b0"/>
+</svg>
