@@ -1,0 +1,13 @@
+{
+  "name": "GFP — Gestión de Finanzas Personales",
+  "short_name": "GFP",
+  "description": "Gestión clara de finanzas personales, tarjetas y gastos del hogar.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f8",
+  "theme_color": "#f6f7f8",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
